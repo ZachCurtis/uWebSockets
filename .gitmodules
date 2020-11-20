@@ -3,4 +3,4 @@
 	url = https://github.com/ZachCurtis/uSockets.git
 [submodule "fuzzing/libEpollFuzzer"]
 	path = fuzzing/libEpollFuzzer
-	url = https://github.com/uNetworking/libEpollFuzzer
+	url = https://github.com/ZachCurtis/libEpollFuzzer
